@@ -10,7 +10,7 @@ class ProductRepository {
     unit,
     price,
     available,
-    suplier,
+    supplier,
     banner,
   }) {
     try {
@@ -21,7 +21,7 @@ class ProductRepository {
         unit,
         price,
         available,
-        suplier,
+        supplier,
         banner,
       });
 
